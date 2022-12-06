@@ -52,3 +52,5 @@ class PhoneIdClient(RestClient):
                                                  **payload))
 
         return response
+
+# This package is awesome
